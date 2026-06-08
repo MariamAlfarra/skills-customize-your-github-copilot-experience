@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-file-io",
+      "title": "Python Automation with File I/O",
+      "description": "Practice reading, processing, and writing files in Python to automate text tasks.",
+      "path": "assignments/python-file-io",
+      "dueDate": "2026-07-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Text",
+          "file": "sample-text.txt",
+          "type": "text"
+        }
+      ]
     }
   ]
 }
